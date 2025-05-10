@@ -123,7 +123,7 @@ Created by Sameer - Aspiring Technology Consultant passionate about leveraging d
 
 - 🌐 [Portfolio](https://your-portfolio.com)
 - 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sameer-m-b73376167/))
-- 📧 your.email@example.com
+- 📧 mohammad.sameer@epita.fr
 
 ---
 
