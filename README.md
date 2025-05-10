@@ -119,10 +119,10 @@ This project demonstrates:
 
 ## 👤 About Me
 
-Created by [Your Name] - Aspiring Technology Consultant passionate about leveraging data and AI to drive business transformation.
+Created by Sameer - Aspiring Technology Consultant passionate about leveraging data and AI to drive business transformation.
 
 - 🌐 [Portfolio](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sameer-m-b73376167/))
 - 📧 your.email@example.com
 
 ---
